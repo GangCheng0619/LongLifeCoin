@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "Bullpen";
+  src: local("Bullpen"),
+    url("./assests/fonts/GreatLakesShadowNF.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Hansen";
+  src: local("Hansen"),
+    url("./assests/fonts/Hansen\ Shadow.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Agent";
+  src: local("Agent"), url("./assests/fonts/AgentRed.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Vat";
+  src: local("Vat"), url("./assests/fonts/Bullpen3D.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Sunday";
+  src: local("Sunday"),
+    url("./assests/fonts/Christian\ Sunday\ Italic.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Rondo";
+  src: local("Rondo"), url("./assests/fonts/RONDOS.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Campinas";
+  src: local("Campinas"),
+    url("./assests/fonts/Campinas-Extrabold.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "How";
+  src: local("How"), url("./assests/fonts/How\ Lovely.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Unicorn";
+  src: local("Unicorn"),
+    url("./assests/fonts/ChunkyUnicornDemoRegular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu"),
+    url("./assests/fonts/Ubuntu-Title.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Font1";
+  src: local("Font1"),
+    url("./assests/fonts/fontawesome-webfont3e6e.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Modak";
+  src: local("Modak"),
+    url("./assests/fonts/Creepster-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+

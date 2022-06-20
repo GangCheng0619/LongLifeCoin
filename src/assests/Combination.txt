@@ -1,0 +1,30 @@
+
+#include <iostream>
+
+using namespace std;
+int n,cnt=0;
+char arr[10];
+void func (int index, int j) {
+    if (index == n){
+        cout<<arr<<" "<<ends;
+        cnt++;
+        if(cnt==20){
+            cnt=0;
+            cout<<endl;
+        }
+        return;
+    }
+    for (int i=j;i<10;i++){
+        arr[index]=i+48;
+        func(index+1, i+1);
+    }
+}
+
+
+int main()
+{
+   
+   cin>>n;
+   func(0, 0);
+   return 0;
+}
